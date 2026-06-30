@@ -18,7 +18,7 @@
 
 ## cart
 
-An Shoping Cart application.
+An Shoping Cart application.feature/checkout_funcation added for commit 
 
 ### Starting the generated app
 
