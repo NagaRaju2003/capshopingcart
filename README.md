@@ -23,7 +23,7 @@ An Shoping Cart application.feature/checkout_funcation added for commit
 ### Starting the generated app
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  To launch the generated application, run the following from the generated application root folder:
-
+-   move latest changes from the feature/checkout_funcation
 ```
     npm start
 ```
