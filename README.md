@@ -18,7 +18,7 @@
 
 ## cart
 
-An Shoping Cart application.feature/checkout_funcation added for commit 
+An Shoping Cart application.feature/checkout_funcation added for commit new hotfix changes for checkout page 
 
 ### Starting the generated app
 
