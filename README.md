@@ -30,6 +30,6 @@ An Shoping Cart application.feature/checkout_funcation added for commit
 
 #### Pre-requisites:
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org) oll
 
 
