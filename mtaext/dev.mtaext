@@ -17,4 +17,4 @@ resources:
 
   - name: sapuidemocart-repo-host
     parameters:
-      service-name: sapuidemocart-html5-service-dev  aaa
+      service-name: sapuidemocart-html5-service-dev  aaasss
